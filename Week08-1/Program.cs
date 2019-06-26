@@ -16,7 +16,7 @@ namespace Week08_1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Lab08Form());
+            Application.Run(new TitleLabel());
         }
     }
 }
